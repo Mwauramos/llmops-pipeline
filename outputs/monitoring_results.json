@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-10-16T15:53:45.639532",
+    "question": "What is the malaria prevalence in Kenya?",
+    "latency_seconds": 4.62,
+    "estimated_cost_usd": 0.000234,
+    "answer_length": 71,
+    "num_sources": 1,
+    "alerts": []
+  },
+  {
+    "timestamp": "2026-10-16T15:53:47.204459",
+    "question": "What is the HIV situation in Kenya?",
+    "latency_seconds": 1.56,
+    "estimated_cost_usd": 0.000936,
+    "answer_length": 332,
+    "num_sources": 1,
+    "alerts": []
+  },
+  {
+    "timestamp": "2026-10-16T15:53:48.669665",
+    "question": "What are the TB treatment outcomes in Kenya?",
+    "latency_seconds": 1.47,
+    "estimated_cost_usd": 0.00041,
+    "answer_length": 121,
+    "num_sources": 1,
+    "alerts": []
+  }
+]
